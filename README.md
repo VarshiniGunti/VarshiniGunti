@@ -1,6 +1,4 @@
-I build intelligent software systems that move from prototype to real-world deployment.
-
-My work lies at the intersection of **AI systems**, **scalable backend engineering**, and **production-ready machine learning**. I’ve contributed to **government technology platforms**, **adaptive learning systems**, and applied AI projects focused on building reliable, usable systems — not just models.
+I build intelligent software systems that move from prototype to real-world deployment.My work lies at the intersection of **AI systems**, **scalable backend engineering**, and **production-ready machine learning**. I’ve contributed to **government technology platforms**, **adaptive learning systems**, and applied AI projects focused on building reliable, usable systems , not just models.
 
 ## 🔭 Previously Worked On
 - **ALAS (Adaptive Learning & Assessment System):** testing strategies, automation & performance profiling  
