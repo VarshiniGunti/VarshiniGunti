@@ -1,5 +1,36 @@
-# 💫 About Me:
-## About Me :<br><br>🔭 I’ve previously worked on  <br>- ALAS (Adaptive Learning & Assessment System): testing strategies, automation & performance profiling  <br>- Scalable system optimizations: caching, sharding & horizontal scaling  <br>- Samagra Shiksha (Govt initiative): data integration for education decision-making  <br>- AI Projects: YOLO-based Food Detector + AI Chatbot (Vidya) for website guidance  <br><br>👯 I’m looking to collaborate on  <br>- Full-stack web apps (React + Node.js / Flask)  <br>- AI/ML projects (NLP, Computer Vision, automation tools)  <br>- Open-source projects with real-world impact  <br><br>🤝 I’m looking for help with  <br>- Advanced system design & distributed systems  <br>- Improving ML model evaluation & deployment pipelines  <br>- Writing scalable and maintainable backend systems  <br><br>🌱 I’m currently learning  <br>- Advanced DSA + Competitive Programming  <br>- Distributed systems & cloud deployments  <br>- Security basics (networking + API security)  <br><br>💬 Ask me about  <br>- DSA in C/Python  <br>- React, Node.js, Flask, MongoDB, SQL  <br>- YOLO, NLP-based chatbots, automation testing  <br>- Hackathons & internship preparation  <br><br>⚡ Fun fact  <br>- I’m a dancer + tech creator 🎥💃 and I love mixing creativity with coding!
+I build intelligent software systems that move from prototype to real-world deployment.
+
+My work lies at the intersection of AI systems, scalable backend engineering, and production-ready machine learning. I’ve contributed to government technology platforms, adaptive learning systems, and applied AI projects where the focus is on building reliable, usable systems — not just models.
+
+🔭I’ve previously worked on 
+- ALAS (Adaptive Learning & Assessment System): testing strategies, automation & performance profiling  
+- Scalable system optimization: caching, database sharding & horizontal scaling  
+- Samagra Shiksha (Govt initiative): data integration systems for education decision-making  
+- AI applications: YOLO-based Food Detector + NLP-powered guidance chatbot (Vidya)
+
+👯 I’m open to collaborate on  
+- AI-powered applications and agent-based systems  
+- Full-stack platforms (React + Node.js / Flask)  
+- Open-source projects with real-world impact  
+
+🤝 I’m looking to improve in  
+- Distributed systems & scalable cloud deployments  
+- ML model evaluation and deployment pipelines  
+- Backend system design and performance optimization  
+
+🌱 I’m currently exploring  
+- AI systems engineering and production ML workflows  
+- Cloud infrastructure for intelligent applications  
+- Security basics (networking & API security)  
+
+💬 Ask me about  
+- Machine learning pipelines and applied AI  
+- Backend architecture & full-stack development  
+- Computer vision (YOLO) and NLP-based systems  
+- Hackathons & building strong project portfolios  
+
+⚡ Fun fact  
+- I enjoy blending creativity with technology — dancer + tech creator
 
 
 ## 🌐 Socials:
