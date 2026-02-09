@@ -1,35 +1,35 @@
 I build intelligent software systems that move from prototype to real-world deployment.
 
-My work lies at the intersection of AI systems, scalable backend engineering, and production-ready machine learning. I’ve contributed to government technology platforms, adaptive learning systems, and applied AI projects where the focus is on building reliable, usable systems — not just models.
+My work lies at the intersection of **AI systems**, **scalable backend engineering**, and **production-ready machine learning**. I’ve contributed to **government technology platforms**, **adaptive learning systems**, and applied AI projects focused on building reliable, usable systems — not just models.
 
-🔭I’ve previously worked on 
-- ALAS (Adaptive Learning & Assessment System): testing strategies, automation & performance profiling  
-- Scalable system optimization: caching, database sharding & horizontal scaling  
-- Samagra Shiksha (Govt initiative): data integration systems for education decision-making  
-- AI applications: YOLO-based Food Detector + NLP-powered guidance chatbot (Vidya)
+## 🔭 Previously Worked On
+- **ALAS (Adaptive Learning & Assessment System):** testing strategies, automation & performance profiling  
+- **Scalable system optimization:** caching, database sharding & horizontal scaling  
+- **Samagra Shiksha (Govt initiative):** data integration systems for education decision-making  
+- **AI applications:** YOLO-based Food Detector + NLP-powered guidance chatbot (Vidya)
 
-👯 I’m open to collaborate on  
-- AI-powered applications and agent-based systems  
-- Full-stack platforms (React + Node.js / Flask)  
-- Open-source projects with real-world impact  
+## 👯 Open to Collaborate On
+- **AI-powered applications** and **agent-based systems**  
+- **Full-stack platforms** (React + Node.js / Flask)  
+- **Open-source projects** with real-world impact  
 
-🤝 I’m looking to improve in  
-- Distributed systems & scalable cloud deployments  
-- ML model evaluation and deployment pipelines  
-- Backend system design and performance optimization  
+## 🤝 Currently Improving In
+- **Distributed systems** & scalable cloud deployments  
+- **ML model evaluation** and deployment pipelines  
+- **Backend system design** and performance optimization  
 
-🌱 I’m currently exploring  
-- AI systems engineering and production ML workflows  
-- Cloud infrastructure for intelligent applications  
-- Security basics (networking & API security)  
+## 🌱 Currently Exploring
+- **AI systems engineering** and production ML workflows  
+- **Cloud infrastructure** for intelligent applications  
+- **Security basics** (networking & API security)  
 
-💬 Ask me about  
-- Machine learning pipelines and applied AI  
-- Backend architecture & full-stack development  
-- Computer vision (YOLO) and NLP-based systems  
+## 💬 Ask Me About
+- **Machine learning pipelines** and applied AI  
+- **Backend architecture** & full-stack development  
+- **Computer vision (YOLO)** and NLP-based systems  
 - Hackathons & building strong project portfolios  
 
-⚡ Fun fact  
+## ⚡ Fun Fact
 - I enjoy blending creativity with technology — dancer + tech creator
 
 
